@@ -96,14 +96,10 @@
   /* ===========================
      Base Colors
   ============================ */
-
-
   --main-h: 222;
   --main-s: 90%;
   --main-l: 18%;
   --main: var(--main-h) var(--main-s) var(--main-l);
-
-  
 
   --main-two-h: 19;
   --main-two-s: 88%;
